@@ -23,7 +23,7 @@ To run the program:
 
 To compile camera.cpp:
 
-`g++ -std=c++11 camera.cpp `pkg-config --libs --cflags opencv` -o camera`
+```g++ -std=c++11 camera.cpp `pkg-config --libs --cflags opencv` -o camera```
 
 camera.cpp contains opencv programming
 
